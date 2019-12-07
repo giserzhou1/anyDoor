@@ -1,4 +1,8 @@
-# anyDoor
-tiny Node Static Web sever
 
-## 使用方法
+## 介绍
+这是一个项目开发准备环境
+包括
+1.es6代码运行
+2.单元测试与覆盖率
+3.git与npm发布规范
+4.协调代码eslint开发规范
